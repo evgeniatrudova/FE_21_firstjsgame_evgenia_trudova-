@@ -18,7 +18,7 @@
 }
 .display{
     color: #A7B8A0;
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
     margin-top: 0.6em;
     margin-bottom: 0.6em;
@@ -35,12 +35,12 @@
 }
 .tile{
     border: 1px solid #A7B8A0;
-    min-width: 80px;
-    min-height: 80px;
+    min-width: 100px;
+    min-height: 100px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 50px;
+    font-size: 30px;
     cursor: pointer;
 }
 .playerX{
