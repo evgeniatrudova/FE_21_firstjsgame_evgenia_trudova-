@@ -6,14 +6,14 @@
 
 .background {
     background-image: linear-gradient(to right bottom, #07090d, #181a24, #2b2639, #44304b, #613a59);
-    height: 100vh;
+    height: 150vh;
     padding: 1px;
 }
 
 .title {
     color: #708090;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 10%;
 }
 .display{
